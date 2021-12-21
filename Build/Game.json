@@ -1,0 +1,15 @@
+{
+"companyName": "Neux Games",
+"productName": "tank-23",
+"productVersion": "1.0",
+"dataUrl": "Game.data.unityweb",
+"wasmCodeUrl": "Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "Game.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.33f1"
+}
